@@ -1,1 +1,1 @@
-# magics
+# magic
